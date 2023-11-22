@@ -59,3 +59,52 @@ footer {
     justify-content: center;
     display: flex;
 }
+#Social-Networks li {
+    margin: 0 15px;
+}
+#Social-Networks a {
+    text-decoration: none;
+    color: #A9E4EF;
+}
+/* Media queries to help make website responsive */
+@media screen and (max-width: 576px) {
+    header {
+        padding: 10px;
+    }
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+    nav ul li {
+        margin: 10px 0;
+    }
+}
+/* Medium screens (577-992 px) */
+@media screen and (min-width: 577px) and (max-width: 992px) {
+    header {
+        padding: 20px;
+    }
+    nav ul li {
+        margin: 0 10px;
+    }
+}
+/* */
+@media screen and (min-width: 993px) and (max-width: 1200px){
+    main {
+        padding: 35px;
+    }
+    footer {
+        padding: 35px;
+        /* Pushes the footer down to the bottom of the page */
+        margin-top: auto;
+    }
+}
+/* Extra-Large screens above 1200 pixels */
+@media screen and (min-width: 1201px) {
+    header {
+        font-size: 24px;
+    }
+    nav ul li {
+        margin: 0 20px;
+    }
+}
