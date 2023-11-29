@@ -26,15 +26,12 @@ h3 {
     overflow: hidden;
 }
 header {
-    background-color: #81F495;
+    background-color: #ffffff;
+    padding: 0 1rem;
     position: fixed;
     z-index: 99;
-    box-shadow: 0 2px 2px #3a3a3a;
-    padding: 20px 0;
-    text-align: center;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
+    width: 100%;
+    box-shadow: 0 4px 2px #3a3a3a;
 }
 header a {
     text-decoration: none;
@@ -120,7 +117,7 @@ main {
 /* Hero Section */
 #hero {
     /* shahadat-rahman.webp and ian-schneider.webp are possible hero image ideas*/
-    background: url('../images/shahadat-rahman.webp') no-repeat center/center cover;
+    background: url("../images/shahadat-rahman.webp") no-repeat center/center cover;
     height: 200px;
     width: 100%;
     position: relative;
@@ -154,18 +151,41 @@ footer {
     color: #A9E4EF;
 }
 /* Media queries to help make website responsive */
-@media screen and (max-width: 576px) {
+@media screen and (min-width: 280px) {
     header {
         padding: 10px;
-    }
-    nav ul {
-        flex-direction: column;
+        flex-direction: column; /* Adjust for mobile layout */
         align-items: center;
     }
+
+    nav {
+        display: none; /* Hide nav by default for mobile */
+        width: 100%;
+        top: 60px;
+        position: absolute;
+        background-color: #81F495;
+        box-shadow: 0 2px 2px #3a3a3a;
+        text-align: center;
+    }
+
+    nav.active {
+        display: block; /* Show nav when active */
+    }
+
+    nav ul {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+
     nav ul li {
         margin: 10px 0;
     }
 }
+/* 
+@media screen and (min-width: 281px) and (max-width: 576px){
+    
+}
+*/
 /* Medium screens (577-992 px) */
 @media screen and (min-width: 577px) and (max-width: 992px) {
     header {
