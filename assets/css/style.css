@@ -51,7 +51,7 @@ h1 {
     list-style-type: none;
 }
 
-#Menu li {
+#Menu > li {
     margin-bottom: 1em;
 }
 
@@ -62,7 +62,7 @@ h1 {
 /* navbar styles for dropdown toggle*/
 nav {
     position: absolute;
-    background-color: #81F495;
+    background-color: #ffffff;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -102,15 +102,16 @@ nav ul li {
 /* */
 nav ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #545cf2;
     font-weight: bold;
     font-size: 18px;
     transition: color 0.3s ease;
 }
-/* */
+/* when mouse hovers over element of the drop down menu */
 nav ul li a:hover {
     color: #E40066;
 }
+
 main {
     padding: 20px 0;
 }
@@ -126,6 +127,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 45px;
 }
 
 #hero h2, #hero h3 {
@@ -151,67 +153,53 @@ footer {
     color: #A9E4EF;
 }
 /* Media queries to help make website responsive */
-@media screen and (min-width: 280px) {
-    header {
-        padding: 10px;
-        flex-direction: column; /* Adjust for mobile layout */
-        align-items: center;
-    }
-
+@media screen and (min-width: 768px) {
+    /* Header */
     nav {
-        display: none; /* Hide nav by default for mobile */
-        width: 100%;
-        top: 60px;
-        position: absolute;
-        background-color: #81F495;
-        box-shadow: 0 2px 2px #3a3a3a;
-        text-align: center;
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
     }
 
-    nav.active {
-        display: block; /* Show nav when active */
+    #menu {
+        display: flex;
     }
 
-    nav ul {
-        flex-direction: column;
-        margin-top: 20px;
+    #menu > li {
+        padding-left: 1rem;
     }
 
-    nav ul li {
-        margin: 10px 0;
+    .nav-toggle-label {
+        display: none;
     }
-}
-/* 
-@media screen and (min-width: 281px) and (max-width: 576px){
-    
-}
-*/
-/* Medium screens (577-992 px) */
-@media screen and (min-width: 577px) and (max-width: 992px) {
-    header {
-        padding: 20px;
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
     }
-    nav ul li {
-        margin: 0 10px;
-    }
-}
-/* */
-@media screen and (min-width: 993px) and (max-width: 1200px){
+
+    /* Main content */
     main {
-        padding: 35px;
+        /* Push main content down to accommodate larger header */
+        margin-top: 79px;
     }
-    footer {
-        padding: 35px;
-        /* Pushes the footer down to the bottom of the page */
-        margin-top: auto;
+
+    /* Hero */
+    #cover-text {
+        width: 300px;
+        right: 50px;
     }
 }
-/* Extra-Large screens above 1200 pixels */
-@media screen and (min-width: 1201px) {
-    header {
-        font-size: 24px;
+
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover{
+        border-bottom: 1px solid #3a3a3a;
     }
-    nav ul li {
-        margin: 0 20px;
+    #menu {
+        margin-top: 79px;
     }
 }
