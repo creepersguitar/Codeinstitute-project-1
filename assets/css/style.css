@@ -10,7 +10,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #A9E4EF;
+    background-color: #8693AB;
     color: #7a306c;
 }
 h1,
@@ -119,12 +119,21 @@ main {
 }
 /* Hero Section */
 #hero {
-    background: url('../images/lifehack.webp') no-repeat center/center cover;
+    /* shahadat-rahman.webp and ian-schneider.webp are possible hero image ideas*/
+    background: url('../images/shahadat-rahman.webp') no-repeat center/center cover;
     height: 200px;
     width: 100%;
     position: relative;
+    color: #3a3a3a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
+#hero h2, #hero h3 {
+    margin: 0; /* Remove default margin for better alignment */
+}
 
 footer {
     padding: 20px;
