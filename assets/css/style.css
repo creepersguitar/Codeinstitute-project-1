@@ -173,9 +173,10 @@ footer {
     }
 
     .nav-toggle-label {
+        /* for the drop down logo */
         display: block;
         text-align: right;
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
 
     #logo {
@@ -216,19 +217,20 @@ footer {
         font-size: 14px;
     }
 }
-
+/* For screens 768 pixels and up*/
 @media screen and (min-width: 768px) {
     /* Header */
     header {
         position: absolute;
         top: 0;
         left: 0;
+        /* For the cover text ontop of the hero image */
         background-color: #ffffff;
         padding: 0 1rem;
         z-index: 99;
         width: 100%;        
     }
-
+    /* for the nav menu */
     nav {
         display: block;
         position: relative;
@@ -266,7 +268,7 @@ footer {
         width: 300px;
         right: 50px;
     }
-
+    /* for the text ontop of the hero image */
     #hero-text {
         margin-top: 40px;
         background-color: #E8F0FF;
