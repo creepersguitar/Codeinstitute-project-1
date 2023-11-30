@@ -147,8 +147,88 @@ footer {
     color: #A9E4EF;
 }
 /* Media queries to help make website responsive */
+
+/* Small devices (280px and up) */
+@media screen and (min-width: 280px) {
+    /* Header */
+    header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        background-color: #ffffff;
+        padding: 0.5rem;
+        z-index: 99;
+        width: 100%;
+        box-shadow: 0 2px 2px #3a3a3a;
+    }
+
+    #menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #menu > li {
+        padding: 0.5rem;
+    }
+
+    .nav-toggle-label {
+        display: block;
+        text-align: right;
+        font-size: 1.5rem;
+    }
+
+    #logo {
+        font-size: 18px;
+        line-height: 24px;
+        margin: 0.5rem 0;
+    }
+
+    /* Main content */
+    main {
+        margin-top: 59px;
+        padding: 10px;
+    }
+
+    /* Hero */
+    #cover-text {
+        width: 80%;
+        right: 10%;
+    }
+
+    /* Cover text on top of hero image */
+    #hero-text {
+        background-color: #E8F0FF;
+        margin-top: 80px; /* Adjust this value as needed */
+    }
+    
+    /* Additional adjustments for small screens */
+    h1, h2, h3 {
+        font-size: 18px;
+        letter-spacing: 1px;
+    }
+
+    nav ul li {
+        margin-right: 10px;
+    }
+
+    nav ul li a {
+        font-size: 14px;
+    }
+}
+
 @media screen and (min-width: 768px) {
     /* Header */
+    header {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: #ffffff;
+        padding: 0 1rem;
+        z-index: 99;
+        width: 100%;        
+    }
+
     nav {
         display: block;
         position: relative;
@@ -185,6 +265,11 @@ footer {
     #cover-text {
         width: 300px;
         right: 50px;
+    }
+
+    #hero-text {
+        margin-top: 40px;
+        background-color: #E8F0FF;
     }
 }
 
@@ -241,7 +326,7 @@ footer {
     }
 
     #hero-text {
-        margin-top: 70px;
+        margin-top: 40px;
         background-color: #E8F0FF;
     }
 }
