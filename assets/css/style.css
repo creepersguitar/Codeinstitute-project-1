@@ -81,7 +81,7 @@ nav {
     margin: 0;
     font-size: 24px;
 }
-/* */
+/* targets unordered list that is inside the nav element on the header */
 nav ul {
     padding: 0.5rem;
     list-style: none;
@@ -89,11 +89,11 @@ nav ul {
     justify-content: center;
     margin-top: 20px;
 }
-/* */
+/* targets the descendent of the parent */
 nav ul li {
     margin-right: 20px;
 }
-/* */
+/* targets the descendent of the parent */
 nav ul li a {
     text-decoration: none;
     color: #545cf2;
@@ -105,7 +105,7 @@ nav ul li a {
 nav ul li a:hover {
     color: #E40066;
 }
-
+/* Targets code with id of main*/
 main {
 
     flex: 1 0 auto;
@@ -133,6 +133,25 @@ footer {
     background-color: #7a306c;
     text-align: center;
 }
+#contact-us {
+    margin-top: 60px;
+}
+#contact-us #email {
+    margin-left: 35px;
+}
+#contact-us #message {
+    margin-left: 10px;
+    padding-right: 10px;
+}
+#contact-us #Submit {
+    margin-left: 100px;
+}
+#image {
+    background: url("../../assets/images/ian-schneider.webp") no-repeat center center/cover;
+    width: 50%;
+    margin-right: 50%;
+}
+/* To help style the social networks logo*/
 #Social-Networks {
     list-style: none;
     padding: 0;
