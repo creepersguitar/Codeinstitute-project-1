@@ -303,6 +303,12 @@ footer {
         margin-top: 40px;
         background-color: #E8F0FF;
     }
+    #image {
+        height: 450px;
+        margin-left: 100px;
+        margin-top: -200px;
+        width: 90%;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -312,6 +318,12 @@ footer {
     }
     #menu {
         margin-top: 79px;
+    }
+    #image {
+        height: 550px;
+        margin-top: -200px;
+        margin-left: 200px;
+        width: 75%;
     }
 }
 /* Large devices (laptops and desktops, 1024px and up) */
