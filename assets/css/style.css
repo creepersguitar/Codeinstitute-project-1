@@ -238,6 +238,14 @@ footer {
     nav ul li a {
         font-size: 14px;
     }
+    #image {
+        /* Adjust styles for small screens */
+        height: 300px;
+        margin-left: 0;
+        margin-top: 0;
+        width: 100%;
+        background-size: contain;
+    }
 }
 /* For screens 768 pixels and up*/
 @media screen and (min-width: 768px) {
