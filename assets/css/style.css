@@ -373,4 +373,10 @@ footer {
         margin-top: 40px;
         background-color: #E8F0FF;
     }
+    #image {
+        height: 650px;
+        width: 72%;
+        margin-top: -300px;
+        margin-left: 300px;
+    }
 }
