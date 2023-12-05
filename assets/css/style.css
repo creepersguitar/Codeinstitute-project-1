@@ -168,6 +168,9 @@ footer {
     text-decoration: none;
     color: #A9E4EF;
 }
+#lifehacks {
+    margin-top: 30px;
+}
 /* Media queries to help make website responsive */
 
 /* Small devices (280px and up) */
@@ -246,6 +249,9 @@ footer {
         width: 100%;
         background-size: contain;
     }
+    #lifehacks {
+        margin-top: 30px;
+    }
 }
 /* For screens 768 pixels and up*/
 @media screen and (min-width: 768px) {
@@ -309,6 +315,15 @@ footer {
         margin-top: -200px;
         width: 90%;
     }
+    footer {
+        margin-top: 30px;
+    }
+    #about {
+        margin-top: 20px;
+    }
+    #lifehacks {
+        margin-top: 45px;
+    }
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -324,6 +339,9 @@ footer {
         margin-top: -200px;
         margin-left: 200px;
         width: 75%;
+    }
+    #lifehacks {
+        margin-top: 30px;
     }
 }
 /* Large devices (laptops and desktops, 1024px and up) */
@@ -378,5 +396,8 @@ footer {
         width: 72%;
         margin-top: -300px;
         margin-left: 300px;
+    }
+    #lifehacks {
+        margin-top: 50px;
     }
 }
