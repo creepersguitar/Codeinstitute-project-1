@@ -1,6 +1,6 @@
 # Codeinstitute-project-1
 
-Visit the Website [here!] (https://)
+![mock-up]()
 
 ## Contents
 Design
