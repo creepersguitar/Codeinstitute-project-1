@@ -17,12 +17,21 @@ Visit the live site [here](https://creepersguitar.github.io/Codeinstitute-projec
 
 ## Design
 
+### Wireframe Designs
+
+### Font Choices
+
+### Colour Choices
 
 ## Features
+
+###  Potential Future Features
 
 ## UX
 
 ## Testing
+
+### Validation Testing
 
 ## Sources
 
