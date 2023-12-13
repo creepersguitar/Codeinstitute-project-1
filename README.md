@@ -1,4 +1,4 @@
-# Codeinstitute-project-1
+# Life-Hackification
 
 ![mock-up](assets/images/readme-images/mock-up.png)
 
