@@ -1,6 +1,6 @@
 # Codeinstitute-project-1
 
-![mock-up](assets/images/readme-images/mock-up.webp)
+![mock-up](../Codeinstitute-project-1/assets/images/readme-images/mock-up.webp)
 
 
 
@@ -12,8 +12,9 @@ Visit the live site [here](https://creepersguitar.github.io/Codeinstitute-projec
 2.
 3.
 4.
-5. [Sources] (#sources)
-6. [Credits] (#credits)
+5. [Sources](#sources)
+6. [Credits](#credits) 
+
 ## Design
 
 
