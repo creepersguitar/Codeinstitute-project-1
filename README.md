@@ -1,6 +1,6 @@
 # Codeinstitute-project-1
 
-![mock-up](assets/images/readme-images/mock-up.webp)
+![mock-up](assets/images/readme-images/mock-up.png)
 
 
 
@@ -36,6 +36,7 @@ Visit the live site [here](https://creepersguitar.github.io/Codeinstitute-projec
 - Hack 1 was taken from [buzzfeed.com] (https://www.buzzfeed.com/sarahaspler/life-hacks-september-2023)
 - Hack 2 was taken from [familyhandyman.com] (https://www.familyhandyman.com/list/life-hacks-youll-wish-you-knew-sooner/)
 - Hacks 3 and 4 were also taken from [buzzfeed.com] (https://www.buzzfeed.com/rossyoder/effective-life-hacks)
+- The Structure of this README file from [MariaHochstoeger] (https://github.com/MariaHochstoeger/project1)
 
 ## Credits
 - https://www.w3schools.com/tags/tag_textarea.asp for helping me figure out how to allow users to enter more than one line within the contact form
