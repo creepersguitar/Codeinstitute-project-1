@@ -41,6 +41,6 @@ Visit the live site [here](https://creepersguitar.github.io/Codeinstitute-projec
 ## Credits
 - https://www.w3schools.com/tags/tag_textarea.asp for helping me figure out how to allow users to enter more than one line within the contact form
 - https://www.w3schools.com/css/css3_transitions.asp#:~:text=ease%20%2D%20specifies%20a%20transition%20effect,effect%20with%20a%20slow%20end for giving me something new to work with within the css code to style the nav bar
--https://www.w3schools.com/css/css_background_image.asp for helping me with understanding the background-image css code more and allowing me to add an image within any section needed.
+- https://www.w3schools.com/css/css_background_image.asp for helping me with understanding the background-image css code more and allowing me to add an image within any section needed.
 - https://www.w3schools.com/tags/att_input_autocomplete.asp for helping me allow search engines to autocomplete parts of the contact us form
 - My mentor, Spencer Barribal, for his input
