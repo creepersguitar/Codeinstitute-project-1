@@ -1,6 +1,6 @@
 # Codeinstitute-project-1
 
-![mock-up](../Codeinstitute-project-1/assets/images/readme-images/mock-up.webp)
+![mock-up](assets/images/readme-images/mock-up.webp)
 
 
 
@@ -8,10 +8,10 @@ Visit the live site [here](https://creepersguitar.github.io/Codeinstitute-projec
 
 
 ## Contents
-1.
-2.
-3.
-4.
+1. [](#)
+2. [](#)
+3. [](#)
+4. [](#)
 5. [Sources](#sources)
 6. [Credits](#credits) 
 
@@ -33,6 +33,10 @@ Visit the live site [here](https://creepersguitar.github.io/Codeinstitute-projec
 - Images were converted using [Cloudconvert.com] (https://cloudconvert.com/)
 - Images were compressed using [youcompress.com] (https://www.youcompress.com/webp/#google_vignette)
 - Icons were taken from [fontawesome.com] (https://fontawesome.com/)
+- Hack 1 was taken from [buzzfeed.com] (https://www.buzzfeed.com/sarahaspler/life-hacks-september-2023)
+- Hack 2 was taken from [familyhandyman.com] (https://www.familyhandyman.com/list/life-hacks-youll-wish-you-knew-sooner/)
+- Hacks 3 and 4 were also taken from [buzzfeed.com] (https://www.buzzfeed.com/rossyoder/effective-life-hacks)
+
 ## Credits
 - https://www.w3schools.com/tags/tag_textarea.asp for helping me figure out how to allow users to enter more than one line within the contact form
 - https://www.w3schools.com/css/css3_transitions.asp#:~:text=ease%20%2D%20specifies%20a%20transition%20effect,effect%20with%20a%20slow%20end for giving me something new to work with within the css code to style the nav bar
