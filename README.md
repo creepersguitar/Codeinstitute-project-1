@@ -50,8 +50,8 @@ The site has features of a static website.
 
 - **Main Section**
     - Subheaders on all pages to help give cues about the content to the users on each page.
-    -
-    -
+    - Varied content depending on the page
+    - Information kept short to help the user find information quickly
 
 - **Home page**
 
