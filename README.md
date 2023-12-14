@@ -95,29 +95,48 @@ The site wants to attract people who want to learn new ways to do boring repetit
 
 ## Testing
 
+- I have confirmed that this project is responsive and looks good on various common screen sizes by using the chrome devtools devices toolbar.
+- I have also confirmed that the form works and each field is required. There are also messages that pop up if a field is left blank or if it is filled incorrectly.
+- I confirmed that the header and navbar are easily readable and understandable.
 ### Fixed Bugs
 - Imported footer logos and drop down menu logo via fontawesome. This caused me to forget to put the script line at the bottom of all pages of the site.
 ### Unfixed Bugs
 - None.
 ### Validation Testing
 - HTML ([W3C Validator](https://validator.w3.org/))
-    -
-    -
+    - 1 error found in the contact page "form missing end tag". I had 2 closing form tags on that page and i did not realise that i had a second closing tag.
+    - Solution: removed one of the tags and moved the other tag to where its supposed to be.
 
 - CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
-    -
-    -
+    - No errors found within the CSS
 
 - Performance, Accessibility, Best Practices, SEO (Lighthouse Chrome Dev Tools)
-    -
-
+    - Accessibility is at 94 which is what the focus was on.
+    - Performance is great at 99
     - ![Lighthouse Rating](assets/images/readme-images/SEO-performance-indicator.png)
 
 ### Browser Testing
+**Layout** I am testing the layout and apperance for consistency throughout the website.
 
-### Testing User Stories
+**Functionality** Ensuring all links, navigation and form submit functions work as intended.
+
+| Browser   | Layout    | Functionality |
+| :.......: | :.......: | :...........: |
+| Chrome    | ✔        | ✔             |
+| Edge      | ✔        | ✔             |
+| Firefox   | ✔        | ✔             |
+| Safari    | ✔        | ✔             |
+| IE        | depreciated by Microsoft, not needed to test |
 
 ### Manual Testing
+
+| Feature   | Expect    | Action    | Result |
+| :.......: | :.......: | :.......: | :....: |
+| **Logo Name** | When clicked, home page will open | Clicked on name of website in top left corner | home page opened |
+| **Navbar buttons** | When clicked, they take you to different pages | Clicked on different navbar buttons | moved to different pages |
+| **Submit button** | When clicked, it will show the code institute form submitted button | clicked on submit button after filling out form | showed the code institute form submitted |
+| **Email form on contact page** | If not filled out correctly, it should prompt user to do so | left out an "@" symbol on email input form | It forces the user to enter an @ symbol |
+| **Social link buttons** | opens signup pages for different links and opens home page on youtube | clicked on social link buttons
 
 ## Deployment
 This site was deployed on Github Pages:
