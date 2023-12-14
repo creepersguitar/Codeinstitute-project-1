@@ -100,7 +100,36 @@ The site wants to attract people who want to learn new ways to do boring repetit
 ### Unfixed Bugs
 - None.
 ### Validation Testing
+- HTML ([W3C Validator](https://validator.w3.org/))
+    -
+    -
 
+- CSS ([Jigsaw](https://jigsaw.w3.org/css-validator/))
+    -
+    -
+
+- Performance, Accessibility, Best Practices, SEO (Lighthouse Chrome Dev Tools)
+    -
+
+    - ![Lighthouse Rating](assets/images/readme-images/SEO-performance-indicator.png)
+
+### Browser Testing
+
+### Testing User Stories
+
+### Manual Testing
+
+## Deployment
+This site was deployed on Github Pages:
+- From the repository you are in, first navigate to "Settings" (This is at the top of the page).
+- Then in the "Settings" you go to "Pages" (This is at the left of the newly opened page)
+- Under "Source" you then choose "Deploy from a Branch" in the drop down menu.
+- Then choose the "main" Branch, and make sure the folder "/(root)"
+- You then can click "Save"
+- The website is now being deployed (this may take a few minutes to do so be patient!)
+- To get to your new site, click in the "Code" tab of the repository.
+- Then on the right-hand side under "Environments" click on "github-pages"
+- Finally on the newly opened page, on the right-hand side, click on "View deployment"
 ## Sources
 
 - Love Running walk-through project for basic structures for the header and footer aswell as part of the css structure.
