@@ -136,7 +136,8 @@ The site wants to attract people who want to learn new ways to do boring repetit
 | **Navbar buttons** | When clicked, they take you to different pages | Clicked on different navbar buttons | moved to different pages |
 | **Submit button** | When clicked, it will show the code institute form submitted button | clicked on submit button after filling out form | showed the code institute form submitted |
 | **Email form on contact page** | If not filled out correctly, it should prompt user to do so | left out an "@" symbol on email input form | It forces the user to enter an @ symbol |
-| **Social link buttons** | opens signup pages for different links and opens home page on youtube | clicked on social link buttons
+| **Social link buttons** | opens signup pages for different links and opens home page on youtube | clicked on social link buttons | opens signup pages for different links and opens home page on youtube |
+| **Required form fields** | Forms will not be submitted if left blank or spelt incorrectly | left entire form blank | forces user to input something into the forms.
 
 ## Deployment
 This site was deployed on Github Pages:
