@@ -22,7 +22,7 @@ The wireframes were made with [Wireframe.cc] (https://wireframe.cc/)
 
 ![Wireframe for Mobile](assets/images/readme-images/Wireframe-index-html.png)
 ### Font Choices
-
+**Fonts:** 'Oswald' was chosen
 ### Colour Choices
 
 ## Features
@@ -48,7 +48,7 @@ The wireframes were made with [Wireframe.cc] (https://wireframe.cc/)
 - Hack 2 was taken from [familyhandyman.com] (https://www.familyhandyman.com/list/life-hacks-youll-wish-you-knew-sooner/)
 - Hacks 3 and 4 were also taken from [buzzfeed.com] (https://www.buzzfeed.com/rossyoder/effective-life-hacks)
 - The Structure of this README file from [MariaHochstoeger] (https://github.com/MariaHochstoeger/project1)
-
+- The wireframes were designed using [Wireframe.cc] (https://wireframe.cc)
 ## Credits
 - https://www.w3schools.com/tags/tag_textarea.asp for helping me figure out how to allow users to enter more than one line within the contact form
 - https://www.w3schools.com/css/css3_transitions.asp#:~:text=ease%20%2D%20specifies%20a%20transition%20effect,effect%20with%20a%20slow%20end for giving me something new to work with within the css code to style the nav bar
