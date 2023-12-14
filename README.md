@@ -55,34 +55,31 @@ The site has features of a static website.
 
 - **Home page**
 
-    -
-    -
-    -
+    - The picture of the faded purple light greets the user to give them a warm, calm welcome.
+    - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
 
 ![Home Page](assets/images/readme-images/homepagep1.png)
 
 - **Hacks Page**
 
-    -
-    -
-    -
-    -
+    - The hacks are related to some of the many daily tasks that can get quite annoying.
+    - The information that site visitors will look for is listed in a clear, easy to understand paragraph format. This is making use of subheadings and break lines to help give the user time to read each hack.
+    - The layout is vertical on smaller screens and horizontal to make use of the larger screens such as laptops.
 
 ![Life Hacks page](assets/images/readme-images/hackspage.png)
 
 - **Contact page**
 
-    -
-    -
-    -
-    -
+    - A form encourages the user to leave a message of support, a new hack or some improvements to the site.
+    - The image on the contact page helps to make the users smile after reading about the lifehacks and filling in the form.
 
 ![Contact page](assets/images/readme-images/contact-us.png)
 
 - **Footer**
-    -
-    -
-    -
+    - The footer contains three icons which link to external social media pages.
+    - The links will open in new tabs to allow the user easy access to come back to the site.
+    - The footer is consitant throughout each page.
+    
 ![Footer](assets/images/readme-images/footer-image.png)
 
 ###  Potential Future Features
