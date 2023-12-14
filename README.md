@@ -36,46 +36,60 @@ This particular colour palette was chosen for its calmimg, warm purple tones.
 **Images:** Besides the hero image of the purple light, there is only one other image which says "passion led us here" in a shadow of a person.
 ## Features
 The site has features of a static website.
-**Nav Bar**
-- The navigation bar is always visible on all pages. In the top left corner is the name of the website which is a link to bring the user back to the home page.
-- The currently active page is underlined in the header.
-- Regardless of the screen format, the navigation bar is constant in one line while being spaced out.
+- **Nav Bar**
+    - The navigation bar is always visible on all pages. In the top left corner is the name of the website which is a link to bring the user back to the home page.
+    - The currently active page is underlined in the header.
+    - Regardless of the screen format, the navigation bar is constant in one line while being spaced out.
 
 ![Navigation Bar](assets/images/readme-images/navigation-bar.png)
 
 - **Hero Image**
-- The hero image was chosen as i wanted something calm and inviting to make the users want to scroll down the home page.
+    - The hero image was chosen as i wanted something calm and inviting to make the users want to scroll down the home page.
 
 ![Hero Image](assets/images/readme-images/shahadat-rahman.jpg)
 
 - **Main Section**
--
--
--
+    - Subheaders on all pages to help give cues about the content to the users on each page.
+    -
+    -
 
 - **Home page**
--
--
--
 
-![]()
+    -
+    -
+    -
+
+![Home Page](assets/images/readme-images/homepagep1.png)
 
 - **Hacks Page**
--
--
--
 
-![]()
+    -
+    -
+    -
+    -
+
+![Life Hacks page](assets/images/readme-images/hackspage.png)
 
 - **Contact page**
 
--
--
--
--
+    -
+    -
+    -
+    -
 
-![]()
+![Contact page](assets/images/readme-images/contact-us.png)
+
+- **Footer**
+    -
+    -
+    -
+![Footer](assets/images/readme-images/footer-image.png)
+
 ###  Potential Future Features
+    -
+    -
+    -
+    -
 
 ## UX
 
