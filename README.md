@@ -35,7 +35,12 @@ This particular colour palette was chosen for its calmimg, warm purple tones.
 ### Images
 **Images:** Besides the hero image of the purple light, there is only one other image which says "passion led us here" in a shadow of a person.
 ## Features
-
+The site has features of a static website.
+**Nav Bar**
+- The navigation bar is always visible on all pages. In the top left corner is the name of the website which is a link to bring the user back to the home page.
+- The currently active page is underlined in the header.
+- Regardless of the screen format, the navigation bar is constant in one line while being spaced out.
+![Navigation Bar](assets/images/readme-images/navigation-bar.png)
 ###  Potential Future Features
 
 ## UX
