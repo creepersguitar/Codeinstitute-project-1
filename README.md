@@ -2,16 +2,16 @@
 
 ![mock-up](assets/images/readme-images/mock-up.png)
 
-
+This is the Life-hackification website. A website designed and targeted for people who are seeking new and fun ways to improve daily tasks.
 
 Visit the live site [here](https://creepersguitar.github.io/Codeinstitute-project-1/)
 
 
 ## Contents
-1. [](#)
-2. [](#)
-3. [](#)
-4. [](#)
+1. [Design](#design)
+2. [Features](#features)
+3. [UX](#ux)
+4. [Testing](#testing)
 5. [Sources](#sources)
 6. [Credits](#credits) 
 
