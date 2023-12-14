@@ -40,7 +40,41 @@ The site has features of a static website.
 - The navigation bar is always visible on all pages. In the top left corner is the name of the website which is a link to bring the user back to the home page.
 - The currently active page is underlined in the header.
 - Regardless of the screen format, the navigation bar is constant in one line while being spaced out.
+
 ![Navigation Bar](assets/images/readme-images/navigation-bar.png)
+
+- **Hero Image**
+- The hero image was chosen as i wanted something calm and inviting to make the users want to scroll down the home page.
+
+![Hero Image](assets/images/readme-images/shahadat-rahman.jpg)
+
+- **Main Section**
+-
+-
+-
+
+- **Home page**
+-
+-
+-
+
+![]()
+
+- **Hacks Page**
+-
+-
+-
+
+![]()
+
+- **Contact page**
+
+-
+-
+-
+-
+
+![]()
 ###  Potential Future Features
 
 ## UX
