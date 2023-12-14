@@ -17,6 +17,8 @@ Visit the live site [here](https://creepersguitar.github.io/Codeinstitute-projec
 
 ## Design
 
+The website was created with persons in mind who, would like to find new quicker ways to help with daily tasks which could be a pain the way they are originally doing them.
+
 ### Wireframe Designs
 The wireframes were made with [Wireframe.cc] (https://wireframe.cc/)
 
@@ -30,6 +32,8 @@ The wireframes were made with [Wireframe.cc] (https://wireframe.cc/)
 This particular colour palette was chosen for its calmimg, warm purple tones.
 
 ![Colour palette](assets/images/readme-images/Colour%20palette.png)
+### Images
+**Images:** Besides the hero image of the purple light, there is only one other image which says "passion led us here" in a shadow of a person.
 ## Features
 
 ###  Potential Future Features
