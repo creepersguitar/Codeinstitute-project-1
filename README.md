@@ -22,7 +22,8 @@ The wireframes were made with [Wireframe.cc] (https://wireframe.cc/)
 
 ![Wireframe for Mobile](assets/images/readme-images/Wireframe-index-html.png)
 ### Font Choices
-**Fonts:** 'Oswald' was chosen
+**Fonts:** 'Nunito' was chosen for the body and heading sections of the website as it makes the website have a professional look while also maintaining the usefulness of the website.
+'Quicksand' was chosen for
 ### Colour Choices
 
 ## Features
