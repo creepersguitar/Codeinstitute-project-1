@@ -79,19 +79,26 @@ The site has features of a static website.
     - The footer contains three icons which link to external social media pages.
     - The links will open in new tabs to allow the user easy access to come back to the site.
     - The footer is consitant throughout each page.
-    
+
 ![Footer](assets/images/readme-images/footer-image.png)
 
 ###  Potential Future Features
-    -
-    -
-    -
-    -
+    - Include a video
+        A video would help improve the websites traffic. I would like to either embed the video in place of the hero image or before the hacks in the lifehacks page.
+
+    - add another page to include videos
+        Another page to include lifehack videos would improve the website and it would give the brain a break from reading.
 
 ## UX
+### Site Goals
+The site wants to attract people who want to learn new ways to do boring repetitive tasks in a more fun way.
 
 ## Testing
 
+### Fixed Bugs
+- Imported footer logos and drop down menu logo via fontawesome. This caused me to forget to put the script line at the bottom of all pages of the site.
+### Unfixed Bugs
+- None.
 ### Validation Testing
 
 ## Sources
