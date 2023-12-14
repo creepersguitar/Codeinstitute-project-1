@@ -25,7 +25,11 @@ The wireframes were made with [Wireframe.cc] (https://wireframe.cc/)
 **Fonts:** 'Nunito' was chosen for the body of the website as it makes the website have a professional look while also maintaining the usefulness of the website.
 'Quicksand' was chosen for the heading sections of the website as it makes it appeal to the younger community while also maintaining a professional look.
 ### Colour Choices
+**Colours** The colour pallete was generated using [coolors.co]
+(https://coolors.co) The base colour was picked out to help give contrast to the hero image (taken from unsplash) which shows a light with a mixture of purple and pink faded spots.
+This particular colour palette was chosen for its calmimg, warm purple tones.
 
+![Colour palette](assets/images/readme-images/Colour%20palette.png)
 ## Features
 
 ###  Potential Future Features
