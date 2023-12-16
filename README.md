@@ -120,7 +120,7 @@ The site wants to attract people who want to learn new ways to do boring repetit
 
 **Functionality** Ensuring all links, navigation and form submit functions work as intended.
 
-| Browser   | Layout    | Functionality |
+| Browser   | Layout    | Functionality | (Table taken from MariaHochstoeger results are my own!)
 | :.......: | :.......: | :...........: |
 | Chrome    | ✔        | ✔             |
 | Edge      | ✔        | ✔             |
@@ -130,7 +130,7 @@ The site wants to attract people who want to learn new ways to do boring repetit
 
 ### Manual Testing
 
-| Feature   | Expect    | Action    | Result |
+| Feature   | Expect    | Action    | Result | (Table taken from MariaHochstoeger results are my own!)
 | :.......: | :.......: | :.......: | :....: |
 | **Logo Name** | When clicked, home page will open | Clicked on name of website in top left corner | home page opened |
 | **Navbar buttons** | When clicked, they take you to different pages | Clicked on different navbar buttons | moved to different pages |
